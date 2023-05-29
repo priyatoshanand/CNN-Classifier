@@ -15,4 +15,5 @@
 11. run "dvc repro" for running all the stages in pipeline
 
 
-https://user-images.githubusercontent.com/56202962/241621912-477e2fcf-72c1-4000-a000-cb33f0258a02.png
+![Data Ingestion@2x (1)](https://github.com/priyatoshanand/CNN-Classifier/assets/56202962/477e2fcf-72c1-4000-a000-cb33f0258a02)
+   
