@@ -163,3 +163,15 @@ cython_debug/
 .vscode/
 *.jpg
 *.zip
+artifacts/.gitignore
+artifacts/data_ingestion/.gitignore
+artifacts/prepare_callbacks/checkpoint_dir/model.h5
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2023-06-06-16-31-27/train/events.out.tfevents.1686049296.DESKTOP-MC33DG5.11368.0.v2
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2023-06-06-16-31-27/validation/events.out.tfevents.1686059874.DESKTOP-MC33DG5.11368.1.v2
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2023-06-06-20-24-32/train/events.out.tfevents.1686063277.DESKTOP-MC33DG5.11368.2.v2
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2023-06-06-20-34-15/train/events.out.tfevents.1686063861.DESKTOP-MC33DG5.11112.0.v2
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2023-06-06-20-34-15/validation/events.out.tfevents.1686071102.DESKTOP-MC33DG5.11112.1.v2
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2023-06-07-00-27-35/train/events.out.tfevents.1686077859.DESKTOP-MC33DG5.14040.0.v2
+artifacts/prepare_callbacks/tensorboard_log_dir/tb_logs_at_2023-06-07-00-27-35/validation/events.out.tfevents.1686092349.DESKTOP-MC33DG5.14040.1.v2
+artifacts/training/.gitignore
+.gitignore
